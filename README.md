@@ -18,6 +18,8 @@ In preparation for publication. The notation is `GRAIN-notation-0_1_0.md`, holdi
 
 ## How it relates to the other standards
 
+![GRAIN and the grants standards: GRAIN is the descriptive grammar of a grant; CROSS, WALKRI, and CRAFT are normative. CROSS's provisions instantiate GRAIN and each is independently adoptable; WALKRI is separate and does not read GRAIN.](grain-architecture.svg)
+
 - **CRAFT**, the meta-standard for making a standard checkable: https://github.com/CrossWalkri/craft-meta-standard
 - **CROSS**, the grants obligation standard, a domain application of CRAFT: https://github.com/CrossWalkri/CROSS. CROSS's grant provisions instantiate GRAIN's grammar; the two are each independently adoptable and compose.
 - **WALKRI**, instrument quality at the point of data capture: https://github.com/CrossWalkri/WALKRI. WALKRI is separate and domain-agnostic; its content descends from the Precision-First Design Standard, and it reaches grant primitives only when a grants program composes it with CROSS.
