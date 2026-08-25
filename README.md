@@ -14,7 +14,7 @@ The pieces GRAIN names were not invented. Each was drawn from real funding progr
 
 ## Status
 
-In preparation for publication. The notation is `GRAIN-notation-0_1_0.md`, holding 136 grant primitives across its grant-representation layers; the machine-readable layer and the publication pass follow.
+In preparation for publication. The notation is `GRAIN-notation-0_1_0.md`, holding 138 grant primitives across its grant-representation layers; the machine-readable layer and the publication pass follow.
 
 ## How it relates to the other standards
 

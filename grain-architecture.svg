@@ -22,7 +22,7 @@
   <text x="165" y="304" font-size="10.5" text-anchor="middle" fill="#3c5a3b">Grant Representation And</text>
   <text x="165" y="318" font-size="10.5" text-anchor="middle" fill="#3c5a3b">Interchange Notation</text>
   <text x="165" y="342" font-size="11" text-anchor="middle" fill="#274a26">the descriptive grammar of a grant</text>
-  <text x="165" y="366" font-size="11" font-weight="600" text-anchor="middle" fill="#274a26">136 grant primitives</text>
+  <text x="165" y="366" font-size="11" font-weight="600" text-anchor="middle" fill="#274a26">the grant-primitive basis</text>
 
   <!-- normative panel -->
   <rect x="330" y="92" width="580" height="430" rx="10" fill="#eef1f7" stroke="#d3dbe8"/>
