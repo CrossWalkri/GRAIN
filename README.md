@@ -27,6 +27,13 @@ In preparation for publication. The notation is `GRAIN-notation-0_1_0.md`, holdi
 
 The full index of the work is at https://github.com/durgadasji/standards-index
 
+## Machine-readable layer
+
+GRAIN's primitives are published as a machine-readable catalog: a `primitives.json` listing all 138 grant primitives (each with `id`, `layer`, `status`, `definition`, `relationships`, and `applications`), validated by a JSON Schema. It is an optional, enabling vocabulary, a grant is represented in it and assessed against it for compatibility, never required. It lives as one source in [Polymathie-Studio/tools](https://github.com/Polymathie-Studio/tools), under `machine-readable/craft/domains/grants/grain/` (source) and `schema/craft/domains/grants/grain/` (published), indexed by the [CRAFT family manifest](https://raw.githubusercontent.com/Polymathie-Studio/tools/main/schema/craft/craft-manifest.json).
+
+- Primitives catalog: https://raw.githubusercontent.com/Polymathie-Studio/tools/main/schema/craft/domains/grants/grain/primitives.json
+- Schema: https://raw.githubusercontent.com/Polymathie-Studio/tools/main/schema/craft/domains/grants/grain/primitives.schema.json
+
 ## License
 
 Dedicated to the public domain under CC0. See the LICENSE file.
